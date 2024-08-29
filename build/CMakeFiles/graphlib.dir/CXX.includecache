@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rohan/Documents/Project/graph.h
+unordered_map
+-
+unordered_set
+-
+vector
+-
+stdexcept
+-
+queue
+-
+stack
+-
+
+/home/rohan/Documents/Project/graph_bindings.cpp
+pybind11/pybind11.h
+-
+pybind11/stl.h
+-
+graph.h
+/home/rohan/Documents/Project/graph.h
+
