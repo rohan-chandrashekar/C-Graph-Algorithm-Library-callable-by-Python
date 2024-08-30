@@ -40,7 +40,7 @@ Welcome to the **Generic Graph Library**, a high-performance, flexible C++ libra
 
 1. **Clone the Repository**:
    \`\`\`bash
-   git clone https://github.com/yourusername/generic-graph-library.git
+   git clone https://github.com/rohan-chandrashekar/generic-graph-library.git
    cd generic-graph-library
    \`\`\`
 
